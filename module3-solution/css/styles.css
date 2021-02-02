@@ -1,0 +1,54 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #92e0f3;
+    /*background-color: black;*/
+    font-family: 'Oxygen', sans-serif;
+  }
+
+
+
+
+
+.navbar-brand h1 {
+   font-family: 'Lora',Serif;
+   color: #557c3e;
+   font-size: 1.5em;
+   text-transform: uppercase;
+   font-weight: bold;
+   text-shadow: 1px 1px 1px #222;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   line-height: 0.75;
+}
+#main-column {
+    background-color: rgb(253, 107, 39);
+    color: black;
+}
+#main-heading {
+    margin-bottom: 30px;
+    color: darkmagenta;
+}
+#main-content {
+    width: 85%;
+    margin-bottom: 30px;
+}
+
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+#nav-list {
+    margin-top: 10px;
+  }
+  #nav-list a {
+    color: #951C49;
+    background-color: cyan;
+    text-align: center;
+  }
+  #nav-list a:hover {
+    background: #E7E7E7;
+  }
